@@ -1,0 +1,41 @@
+.\objects\wave.o: ..\User\Wave\wave.c
+.\objects\wave.o: ..\User\.\Wave\wave.h
+.\objects\wave.o: ..\Libraries\CMSIS\stm32f10x.h
+.\objects\wave.o: ..\Libraries\CMSIS\core_cm3.h
+.\objects\wave.o: D:\Program Files (x86)\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\wave.o: ..\Libraries\CMSIS\system_stm32f10x.h
+.\objects\wave.o: ..\User\stm32f10x_conf.h
+.\objects\wave.o: ..\Libraries\FWlib\inc\stm32f10x_adc.h
+.\objects\wave.o: ..\Libraries\CMSIS\stm32f10x.h
+.\objects\wave.o: ..\Libraries\FWlib\inc\stm32f10x_bkp.h
+.\objects\wave.o: ..\Libraries\FWlib\inc\stm32f10x_can.h
+.\objects\wave.o: ..\Libraries\FWlib\inc\stm32f10x_cec.h
+.\objects\wave.o: ..\Libraries\FWlib\inc\stm32f10x_crc.h
+.\objects\wave.o: ..\Libraries\FWlib\inc\stm32f10x_dac.h
+.\objects\wave.o: ..\Libraries\FWlib\inc\stm32f10x_dbgmcu.h
+.\objects\wave.o: ..\Libraries\FWlib\inc\stm32f10x_dma.h
+.\objects\wave.o: ..\Libraries\FWlib\inc\stm32f10x_exti.h
+.\objects\wave.o: ..\Libraries\FWlib\inc\stm32f10x_flash.h
+.\objects\wave.o: ..\Libraries\FWlib\inc\stm32f10x_fsmc.h
+.\objects\wave.o: ..\Libraries\FWlib\inc\stm32f10x_gpio.h
+.\objects\wave.o: ..\Libraries\FWlib\inc\stm32f10x_i2c.h
+.\objects\wave.o: ..\Libraries\FWlib\inc\stm32f10x_iwdg.h
+.\objects\wave.o: ..\Libraries\FWlib\inc\stm32f10x_pwr.h
+.\objects\wave.o: ..\Libraries\FWlib\inc\stm32f10x_rcc.h
+.\objects\wave.o: ..\Libraries\FWlib\inc\stm32f10x_rtc.h
+.\objects\wave.o: ..\Libraries\FWlib\inc\stm32f10x_sdio.h
+.\objects\wave.o: ..\Libraries\FWlib\inc\stm32f10x_spi.h
+.\objects\wave.o: ..\Libraries\FWlib\inc\stm32f10x_tim.h
+.\objects\wave.o: ..\Libraries\FWlib\inc\stm32f10x_usart.h
+.\objects\wave.o: ..\Libraries\FWlib\inc\stm32f10x_wwdg.h
+.\objects\wave.o: ..\Libraries\FWlib\inc\misc.h
+.\objects\wave.o: D:\Program Files (x86)\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\objects\wave.o: ..\User\.\OLED\oled.h
+.\objects\wave.o: ..\User\.\KeyBoard\keyboard.h
+.\objects\wave.o: ..\User\.\EEPROM\eeprom.h
+.\objects\wave.o: ..\User\.\AD9834\ad9834.h
+.\objects\wave.o: ..\User\.\MCP4725\mcp4725.h
+.\objects\wave.o: D:\Program Files (x86)\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+.\objects\wave.o: ..\User\.\SysTick\systick.h
+.\objects\wave.o: ..\User\.\Relay\relay.h
+.\objects\wave.o: ..\User\.\MyMath\mymath.h
